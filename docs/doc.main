@@ -225,6 +225,7 @@
       "Combinatorics/partitions.md",
       "Combinatorics/tableaux.md",
       "Combinatorics/schur_polynomials.md",
+      "Combinatorics/multipartitions.md",
   ],
 
   "Straight Line Programs" => [
